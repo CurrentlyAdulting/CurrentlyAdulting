@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+---
+
 I build scalable systems and engineer for production reliability. I focus on clarity, precision, and disciplined decision-making — making sure that the systems I work on hold up under real-world conditions.
 
 - 🔭 Currently working on backend systems and distributed architecture projects
