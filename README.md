@@ -8,6 +8,6 @@ I’m [**Dolton**](https://github.com/your-github-username), a Data & Systems En
 - Writing maintainable, high-impact software that makes impact
 
 **Fun Facts:**
-* I don’t like coffee or tea
-* Demon Slayer is my favorite anime
-* **Hobbies:** anime, gym, and optimizing workflows
+* Connoisseur of coffee, cars, and Christ
+* Profitable Trader & Investor 
+* **Hobbies:** reading, gym, and optimizing workflows
