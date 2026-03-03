@@ -7,8 +7,6 @@ I’m [**Dolton**](https://github.com/your-github-username), a Data & Systems En
 - ML/AI model deployment and production reliability
 - Writing maintainable, high-impact software that makes impact
 
----
-
 **Fun Facts:**
 * I don’t like coffee or tea
 * Demon Slayer is my favorite anime
